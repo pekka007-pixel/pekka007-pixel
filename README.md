@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pekka007-pixel
-- 👀 I’m interested in hacking
+- 👀 I’m interested in Android customisation 
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me insatgram
