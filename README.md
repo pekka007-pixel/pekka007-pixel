@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pekka007-pixel
+- 👋 Hi, I’m @project_x
 - 👀 I’m interested in Android customisation 
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate
